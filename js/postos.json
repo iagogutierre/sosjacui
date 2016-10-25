@@ -1,0 +1,26 @@
+[
+	{ 
+		"Nome":"IFSul Campus Charqueadas",
+		"Tipo": "coleta",
+		"Latitude": -29.96421411366902,
+		"Longitude": -51.624408634223926
+	},
+	{
+		"Nome":"Igreja Matriz",
+		"Tipo":"coleta",
+	 	"Latitude": -29.95265829367226,
+	 	"Longitude": -51.625603679256415
+	},
+	{
+		"Nome":"Parque de Eventos",
+		"Tipo":"abrigo",
+		"Latitude": -29.95562343720391,
+		"Longitude": -51.60539322219847
+	},
+	{
+		"Nome":"Campo Municipal",
+		"Tipo":"abrigo",
+		"Latitude":  -29.954275566556152,
+		"Longitude": -51.633776357994066
+	}
+]

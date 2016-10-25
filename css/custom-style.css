@@ -1,0 +1,12 @@
+.business-header {
+    height: 400px;
+    background: url('../imgs/cabecalho-site.png')  no-repeat scroll;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    background-size: 100% 100%;
+    -o-background-size: 100%;
+}
+
+#map{
+	height: 350px;
+}
