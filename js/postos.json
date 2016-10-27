@@ -6,6 +6,12 @@
 		"Longitude": -51.624408634223926
 	},
 	{
+		"Nome":"Associação de Moradores Cruz de Malta",
+		"Tipo":"coleta",
+	 	"Latitude": -29.9645513,
+	 	"Longitude":  -51.6300756
+	},
+	{
 		"Nome":"Igreja Matriz",
 		"Tipo":"coleta",
 	 	"Latitude": -29.95265829367226,
